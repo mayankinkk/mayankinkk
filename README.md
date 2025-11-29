@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Mayank Sharma
 
-<!--
-**mayankinkk/mayankinkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 B.Tech CSE (2025–2029)  
+🚀 Open-Source | Full-Stack | AI Explorer  
+📍 Dhubri, Assam, India
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Languages: C++, JavaScript, Python
+- Frontend: React, TailwindCSS
+- Backend: Node.js, Express, REST APIs
+- Tools: Git, GitHub, Linux, AI APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Learn by building real projects
+- Contribute to open-source
+- Become a better software developer ⚡
+
+✨ I write clean and scalable code.
