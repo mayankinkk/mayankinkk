@@ -22,20 +22,21 @@
 
 ---
 
-# 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-* 🎓 B.Tech Computer Science & Engineering (2025–2029)
-* 💻 Passionate about Full Stack Development
-* ☁️ Exploring Cloud Computing & DevOps
-* 🤖 Learning AI Agents and Intelligent Systems
-* 🌱 Active Open Source Contributor
-* 🚀 Building scalable applications and real-world projects
+- 🎓 B.Tech Computer Science & Engineering (2025–2029)
+- 🚀 Built **[MIIAM](https://miiam.in)** — a hyperlocal super-app for Northeast India
+  (Food delivery, Groceries, Home Services, Printing & more)
+- ☁️ Exploring Cloud Computing & DevOps
+- 🤖 Learning AI Agents and Intelligent Systems
+- 🌱 Active Open Source Contributor
 
 ---
 
 # 🛠️ Tech Stack
 
 ## Languages
+
 
 <h3>Languages</h3>
 
