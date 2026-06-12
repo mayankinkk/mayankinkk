@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;Full+Stack+Developer;Open+Source+Contributor;AI+%26+Cloud+Enthusiast;Building+Scalable+Applications;Learning+AI+Agents+and+Cloud+Architecture" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=I+Write+Code+and+Sometimes+It+Works;Building+Projects;Learning+AI+Stuff;Open+Source+Explorer;Coffee+Powered" />
 </p>
 
 <p align="center">
@@ -109,8 +109,8 @@ Enterprise-grade food delivery and restaurant management platform.
 | Metric     | Details                                            |
 | ---------- | -------------------------------------------------- |
 | Tech Stack | TypeScript, React, PostgreSQL, Node.js             |
-| Features   | Order Tracking, Wallet Integration, Loyalty System |
-| Deployment | Production Ready                                   |
+| Features   | Order Tracking, POS Integration, Real-Time Order Tracking, Multi-Vendor Architecture |
+| Deployment | Active Development [miiam.in]                                   |
 | Repository | https://github.com/mayankinkk/MIIAM                |
 
 ---
