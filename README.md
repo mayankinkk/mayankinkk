@@ -273,3 +273,9 @@ https://www.hackerrank.com/profile/mayank_170805
 If you find my projects interesting, feel free to connect, collaborate, or follow my journey.
 
 🚀 Let's build something impactful together.
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayankinkk/mayankinkk/output/github-contribution-grid-snake.svg" />
+</p>
