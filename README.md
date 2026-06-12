@@ -216,10 +216,7 @@ Word sorting and processing application.
 
 # 💻 Coding Profiles
 
-* GeeksforGeeks
-* LeetCode
-* HackerRank
-* CodeChef
+- 🟢 GeeksforGeeks: https://www.geeksforgeeks.org/user/mayankinkk
 
 ---
 
@@ -232,14 +229,6 @@ Word sorting and processing application.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankinkk&theme=tokyonight" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mayankinkk&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
