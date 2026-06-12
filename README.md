@@ -33,7 +33,7 @@
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 ## Languages
 
@@ -57,6 +57,8 @@
 </a>
 </p>
 
+## Frontend
+
 <p align="center">
 <a href="https://react.dev/">
 <img src="https://skillicons.dev/icons?i=react" />
@@ -70,6 +72,8 @@
 <img src="https://skillicons.dev/icons?i=tailwind" />
 </a>
 
+## Backend
+
 <a href="https://nodejs.org/">
 <img src="https://skillicons.dev/icons?i=nodejs" />
 </a>
@@ -78,9 +82,13 @@
 <img src="https://skillicons.dev/icons?i=express" />
 </a>
 
+## Database
+
 <a href="https://www.postgresql.org/">
 <img src="https://skillicons.dev/icons?i=postgres" />
 </a>
+
+## Cloud & DevOps
 
 <a href="https://cloud.google.com/">
 <img src="https://skillicons.dev/icons?i=gcp" />
@@ -95,28 +103,57 @@
 </a>
 </p>
 
+## Tools
+
+<h3>Tools</h3>
+
+<p>
+<a href="https://git-scm.com/" title="Git">
+<img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+<a href="https://github.com/" title="GitHub">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://code.visualstudio.com/" title="VS Code">
+<img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+
+<a href="https://www.codeblocks.org/" title="Code::Blocks">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeblocks/codeblocks-original.svg" width="48" />
+</a>
+
+<a href="https://turboc.codeplex.com/" title="Turbo C++">
+<img src="https://img.shields.io/badge/Turbo%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</a>
+
+<a href="https://www.antigravity.io/" title="Antigravity">
+<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge" />
+</a>
+</p>
+
 ---
 
 # 🔥 Current Focus
 
 ```yaml
-name: Mayank Sharma
+Name: Mayank Sharma
 
-education:
-  degree: B.Tech CSE
-  graduation: 2029
+Education:
+  Degree: B.Tech CSE
+  Graduation: 2029
 
-currently_learning:
+Currently_learning:
   - AI Agents
   - Cloud Architecture
   - Kubernetes
   - System Design
 
-currently_building:
+Currently_building:
   - MIIAM
-  - City Sentinel
-
-open_to:
+ 
+Open_to:
   - Software Engineering Internships
   - Open Source Contributions
   - Collaboration Projects
