@@ -166,7 +166,7 @@ Enterprise-grade food delivery and restaurant management platform.
 | ---------- | -------------------------------------------------- |
 | Tech Stack | TypeScript, React, PostgreSQL, Node.js, HTMl, CSS, Python             |
 | Features   | Order Tracking, POS Integration, Real-Time Order Tracking, Multi-Vendor Architecture |
-| Deployment | Active Development [miiam.in]                                   |
+| Deployment | Active Development [https://www.miiam.in/]                                   |
 | Repository | https://github.com/mayankinkk/MIIAM                |
 
 ---
