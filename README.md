@@ -190,6 +190,10 @@ Word sorting and processing application.
 
 * 60 Days POTD Challenge
 
+## Oracle:
+
+* Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+
 ---
 
 ## 🏅 Achievements
