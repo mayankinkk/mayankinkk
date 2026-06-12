@@ -226,7 +226,7 @@ https://www.geeksforgeeks.org/user/mayankinkk
 - 🔵 Unstop:
 https://unstop.com/u/mayansha7732
 
-- 🔴 Hacker rank: 
+- 🔴 HackerRank: 
 https://www.hackerrank.com/profile/mayank_170805
 
 ---
