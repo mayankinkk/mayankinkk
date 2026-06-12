@@ -192,13 +192,15 @@ Word sorting and processing application.
 
 ---
 
-# 🏅 Achievements
+## 🏅 Achievements
 
-* 🏆 GSSoC 2026 Contributor
-* 🤖 GSSoC AI Agents Track
-* 🌐 GSSoC Open Source Track
-* 🎓 API Learning 101 Completion
-* 💯 GeeksforGeeks 60 Days POTD Challenge
+<p align="center">
+<img src="contributor.png" width="220">
+<img src="open.png" width="220">
+<img src="ai.png" width="220">
+<img src="badge.png" width="220">
+<img src="87bde53aef531c9e7bee3cd352a98103.png" width="220">
+</p>
 
 ---
 
