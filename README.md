@@ -268,14 +268,16 @@ https://www.hackerrank.com/profile/mayank_170805
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/mayankinkk/mayankinkk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
 ⭐ Thanks for visiting my profile!
 
 If you find my projects interesting, feel free to connect, collaborate, or follow my journey.
 
 🚀 Let's build something impactful together.
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayankinkk/mayankinkk/output/github-contribution-grid-snake.svg" />
-</p>
