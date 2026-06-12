@@ -37,38 +37,62 @@
 
 ## Languages
 
+<h3>Languages</h3>
+
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
+<a href="https://en.cppreference.com/w/c">
+<img src="https://skillicons.dev/icons?i=c" />
+</a>
+
+<a href="https://isocpp.org/">
+<img src="https://skillicons.dev/icons?i=cpp" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" />
+</a>
+
+<a href="https://www.typescriptlang.org/">
+<img src="https://skillicons.dev/icons?i=ts" />
+</a>
 </p>
 
-## Frontend
+<p align="center">
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" />
+</a>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
+<a href="https://nextjs.org/">
+<img src="https://skillicons.dev/icons?i=nextjs" />
+</a>
 
-## Backend
+<a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" />
+</a>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
 
-## Database
+<a href="https://expressjs.com/">
+<img src="https://skillicons.dev/icons?i=express" />
+</a>
 
-<p>
+<a href="https://www.postgresql.org/">
 <img src="https://skillicons.dev/icons?i=postgres" />
-</p>
+</a>
 
-## Cloud & DevOps
+<a href="https://cloud.google.com/">
+<img src="https://skillicons.dev/icons?i=gcp" />
+</a>
 
-<p>
-<img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes" />
-</p>
+<a href="https://www.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker" />
+</a>
 
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<a href="https://kubernetes.io/">
+<img src="https://skillicons.dev/icons?i=kubernetes" />
+</a>
 </p>
 
 ---
