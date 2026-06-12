@@ -59,7 +59,6 @@
 
 ## Frontend
 
-<p align="center">
 <a href="https://react.dev/">
 <img src="https://skillicons.dev/icons?i=react" />
 </a>
@@ -121,11 +120,7 @@
 </a>
 
 <a href="https://www.codeblocks.org/" title="Code::Blocks">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeblocks/codeblocks-original.svg" width="48" />
-</a>
-
-<a href="https://turboc.codeplex.com/" title="Turbo C++">
-<img src="https://img.shields.io/badge/Turbo%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Code::Blocks-41AD48?style=for-the-badge&logo=codeblocks&logoColor=white" />
 </a>
 
 <a href="https://www.antigravity.io/" title="Antigravity">
@@ -144,13 +139,13 @@ Education:
   Degree: B.Tech CSE
   Graduation: 2029
 
-Currently_learning:
+Currently learning:
   - AI Agents
   - Cloud Architecture
   - Kubernetes
   - System Design
 
-Currently_building:
+Currently building:
   - MIIAM
  
 Open_to:
@@ -169,7 +164,7 @@ Enterprise-grade food delivery and restaurant management platform.
 
 | Metric     | Details                                            |
 | ---------- | -------------------------------------------------- |
-| Tech Stack | TypeScript, React, PostgreSQL, Node.js             |
+| Tech Stack | TypeScript, React, PostgreSQL, Node.js, HTMl, CSS, Python             |
 | Features   | Order Tracking, POS Integration, Real-Time Order Tracking, Multi-Vendor Architecture |
 | Deployment | Active Development [miiam.in]                                   |
 | Repository | https://github.com/mayankinkk/MIIAM                |
