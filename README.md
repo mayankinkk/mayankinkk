@@ -216,7 +216,11 @@ Word sorting and processing application.
 
 # 💻 Coding Profiles
 
-- 🟢 GeeksforGeeks: https://www.geeksforgeeks.org/user/mayankinkk
+- 🟢 GeeksforGeeks:
+https://www.geeksforgeeks.org/user/mayankinkk
+
+- 🔵 Unstop:
+https://unstop.com/u/mayansha7732
 
 ---
 
