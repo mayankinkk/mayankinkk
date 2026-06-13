@@ -1,4 +1,4 @@
-# 🚀 Mayank Sharma
+#  Mayank Sharma
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Mayank%20Sharma&fontColor=ffffff&fontSize=55&animation=fadeIn" />
