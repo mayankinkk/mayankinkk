@@ -266,9 +266,6 @@ Word sorting and processing application.
 </p>
 
 <p align="center">
-  <img src="contributor.png" width="220"/>
-  <img src="open.png" width="220"/>
-  <img src="ai.png" width="220"/>
   <img src="ai-skills-fest-2026.png" width="220"/>
 </p>
 
@@ -277,7 +274,7 @@ Word sorting and processing application.
 ## 📜 Featured Certificate
 
 <p align="center">
-  <img src="87bde53aef531c9e7bee3cd352a98103.png" width="700" />
+  <img src="87bde53aef531c9e7bee3cd352a98103.png" width="850" />
 </p>
 
 <p align="center">
