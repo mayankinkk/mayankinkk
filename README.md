@@ -274,12 +274,12 @@ Word sorting and processing application.
 ## 📜 Featured Certificate
 
 <p align="center">
-  <img src="87bde53aef531c9e7bee3cd352a98103.png" width="850" />
+  <img src="87bde53aef531c9e7bee3cd352a98103.png" width="450" />
 </p>
 
 <p align="center">
   <a href="Mayank_certificate_s15.jpeg">
-    <img src="Mayank_certificate_s15.jpeg" width="850"/>
+    <img src="Mayank_certificate_s15.jpeg" width="450"/>
   </a>
 </p>
 
