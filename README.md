@@ -265,12 +265,31 @@ Word sorting and processing application.
   <img src="badge.png" width="220" />
 </p>
 
+<p align="center">
+  <img src="contributor.png" width="220"/>
+  <img src="open.png" width="220"/>
+  <img src="ai.png" width="220"/>
+  <img src="ai-skills-fest-2026.png" width="220"/>
+</p>
+
 ---
 
 ## 📜 Featured Certificate
 
 <p align="center">
   <img src="87bde53aef531c9e7bee3cd352a98103.png" width="700" />
+</p>
+
+<p align="center">
+  <a href="Mayank_certificate_s15.jpeg">
+    <img src="Mayank_certificate_s15.jpeg" width="850"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>🏆 Exceptional Performance</b><br>
+  Season 15: Agentic Data Cloud in Action & Evaluation<br>
+  Code Vipassana • Google Developer Groups Cloud Kochi
 </p>
 
 ---
