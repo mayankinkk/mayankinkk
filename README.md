@@ -272,6 +272,10 @@ Word sorting and processing application.
 <p align="center">
   <img src="87bde53aef531c9e7bee3cd352a98103.png" width="650" />
 </p>
+<p align="center">
+  <b>Geeksforgeeks 60 Days POTD Challenge</b><br>
+  Solved coding problems consistently for 60 consecutive days, strengthening Data Structures, Algorithms, and problem-solving skills.
+</p>
 
 <p align="center">
   <a href="Mayank_certificate_s15.jpeg">
