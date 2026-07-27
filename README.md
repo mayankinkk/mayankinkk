@@ -297,6 +297,14 @@ Word sorting and processing application.
   Completed the Google Cloud Gen AI Academy APAC 2026 (Cohort 2), gaining hands-on experience in Generative AI, LLMs, data analytics, and building real-world AI solutions on Google Cloud.
 </p>
 
+<p align="center">
+  <img src="oracle_associate.jpeg="650" />
+</p>
+<p align="center">
+  <b>Oracle Cloud Infrastructure Foundations Associate</b><br>
+  Earned the <b>Oracle Cloud Infrastructure 2025 Certified Foundations Associate</b> certification, demonstrating a solid understanding of cloud computing fundamentals, core OCI services, networking, storage, security, and cloud architecture concepts.
+</p>
+
 ---
 
 # 💻 Coding Profiles
