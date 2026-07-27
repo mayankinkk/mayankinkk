@@ -289,6 +289,17 @@ Word sorting and processing application.
   Code Vipassana • Google Developer Groups Cloud Kochi
 </p>
 
+<td align="center">
+<img src="genai-apac-2026.jpg" width="420"><br><br>
+
+<b>Google Cloud Gen AI Academy APAC 2026</b><br>
+
+<sub>
+Completed the Google Cloud Gen AI Academy APAC 2026 (Cohort 2), gaining hands-on experience in Generative AI, LLMs, data analytics, and building real-world AI solutions on Google Cloud.
+</sub>
+
+</td>
+
 ---
 
 # 💻 Coding Profiles
