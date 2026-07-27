@@ -298,7 +298,7 @@ Word sorting and processing application.
 </p>
 
 <p align="center">
-  <img src="oracle_associate.jpeg="650" />
+  <img src="oracle_associate.jpeg" width="650" />
 </p>
 <p align="center">
   <b>Oracle Cloud Infrastructure Foundations Associate</b><br>
