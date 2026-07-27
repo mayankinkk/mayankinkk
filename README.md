@@ -270,6 +270,22 @@ Word sorting and processing application.
 ## 📜 Featured Certificate
 
 <p align="center">
+  <img src="c.jpg" width="650" />
+</p>
+<p align="center">
+  <b>C Programming Bootcamp – The Complete C Language Course</b><br>
+  Completed a comprehensive <b>44-hour</b> C programming bootcamp covering programming fundamentals, pointers, memory management, file handling, data structures, and problem-solving through hands-on projects.
+</p>
+
+<p align="center">
+  <img src="c++.jpg" width="650" />
+</p>
+<p align="center">
+  <b>Beginning C++ Programming – From Beginner to Beyond</b><br>
+ Successfully completed a <b>46-hour</b> C++ course covering object-oriented programming, STL, classes, templates, inheritance, polymorphism, exception handling, and modern C++ development practices.
+</p>
+
+<p align="center">
   <img src="87bde53aef531c9e7bee3cd352a98103.png" width="650" />
 </p>
 <p align="center">
