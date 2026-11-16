@@ -321,6 +321,18 @@ Word sorting and processing application.
   Earned the <b>Oracle Cloud Infrastructure 2025 Certified Foundations Associate</b> certification, demonstrating a solid understanding of cloud computing fundamentals, core OCI services, networking, storage, security, and cloud architecture concepts.
 </p>
 
+<p align="center">
+  <a href="code_vipassana_s16.jpeg">
+    <img src="google-cloud-code-vipassana-season-16.jpeg" width="650"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>🏆 Exceptional Performance</b><br>
+  Season 16: Data & AI for the Airgapped Systems<br>
+  Code Vipassana • Google Developer Groups Cloud Kochi
+</p>
+
 ---
 
 # 💻 Coding Profiles
