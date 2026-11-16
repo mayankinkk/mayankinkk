@@ -323,7 +323,7 @@ Word sorting and processing application.
 
 <p align="center">
   <a href="code_vipassana_s16.jpeg">
-    <img src="google-cloud-code-vipassana-season-16.jpeg" width="650"/>
+    <img src="code_vipassana_s16.jpeg" width="650"/>
   </a>
 </p>
 
