@@ -346,6 +346,9 @@ https://unstop.com/u/mayansha7732
 - 🔴 HackerRank: 
 https://www.hackerrank.com/profile/mayank_170805
 
+- 🟡 takeUforward: 
+https://takeuforward.org/profile/mayankinkk
+
 ---
 
 # 📈 GitHub Analytics
