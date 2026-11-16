@@ -159,16 +159,19 @@ Open_to:
 
 # 🚀 Featured Projects
 
+
 ## 🏥 MIIAM
 
 Enterprise-grade food delivery and restaurant management platform.
 
-| Metric     | Details                                            |
-| ---------- | -------------------------------------------------- |
-| Tech Stack | TypeScript, React, PostgreSQL, Node.js, HTMl, CSS, Python             |
+| Metric     | Details |
+| ---------- | ------- |
+| Category   | Food Delivery, E-commerce & Multi-Vendor Marketplace |
+| Tech Stack | TypeScript, React, PostgreSQL, Node.js, HTML, CSS, Python |
 | Features   | Order Tracking, POS Integration, Real-Time Order Tracking, Multi-Vendor Architecture |
-| Deployment | Active Development [https://www.miiam.in/]                                   |
-| Repository | https://github.com/mayankinkk/MIIAM                |
+| Deployment | Active Development — [miiam.in](https://www.miiam.in/) |
+| Repository | [GitHub](https://github.com/mayankinkk/MIIAM) |
+
 
 ---
 
@@ -183,7 +186,7 @@ Premium streetwear fashion brand with a modern e-commerce experience.
 | Focus      | Premium Streetwear, Hoodie Collections, Digital Lookbooks |
 | Branding   | Not Made To Fit In. |
 | Deployment | [marvvn.online](https://www.marvvn.online/) |
-
+| Repository | [GitHub](https://github.com/mayankinkk/marvvn) |
 ---
 
 ## 🌆 City Sentinel
