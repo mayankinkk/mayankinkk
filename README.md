@@ -172,6 +172,20 @@ Enterprise-grade food delivery and restaurant management platform.
 
 ---
 
+## 👕 MARVVN
+
+Premium streetwear fashion brand with a modern e-commerce experience.
+
+| Metric     | Details |
+| ---------- | ------- |
+| Category   | Fashion & E-commerce |
+| Tech Stack | Next.js, React, TypeScript, Tailwind CSS, Node.js, Supabase |
+| Focus      | Premium Streetwear, Hoodie Collections, Digital Lookbooks |
+| Branding   | Not Made To Fit In. |
+| Deployment | [marvvn.online](https://www.marvvn.online/) |
+
+---
+
 ## 🌆 City Sentinel
 
 AI-powered smart city analytics platform.
