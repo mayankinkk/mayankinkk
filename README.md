@@ -187,6 +187,21 @@ Premium streetwear fashion brand with a modern e-commerce experience.
 | Branding   | Not Made To Fit In. |
 | Deployment | [marvvn.online](https://www.marvvn.online/) |
 | Repository | [GitHub](https://github.com/mayankinkk/marvvn) |
+
+---
+## 🎬 YAPPIE
+
+Free, zero-install YouTube watch parties with perfectly synced playback, live chat, and voice.
+
+| Metric     | Details |
+| ---------- | ------- |
+| Category   | Social & Real-Time Web App |
+| Tech Stack | React 19, TypeScript, Vite, Zustand, Supabase (Realtime, Auth, PostgreSQL + RLS), LiveKit, YouTube IFrame API |
+| Focus      | Synced Watch Parties, Live Chat & Reactions, Host Moderation, Voice Chat |
+| Branding   | Watch YouTube together, in perfect sync. |
+| Deployment | [sofa-one-mu.vercel.app](https://sofa-one-mu.vercel.app/) |
+| Repository | [GitHub](https://github.com/mayankinkk/Yappie) |
+
 ---
 
 ## 🌆 City Sentinel
